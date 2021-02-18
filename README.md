@@ -1,2 +1,5 @@
 # RFID-Card-Clone
- 簡單複製RFID卡片
+
+    R：讀取
+    W：寫入
+    U：查看暫存
