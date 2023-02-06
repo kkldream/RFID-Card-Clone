@@ -1,6 +1,0 @@
-{
-    "port": "COM13",
-    "board": "arduino:avr:nano",
-    "configuration": "cpu=atmega328",
-    "sketch": "RFID_cloner\\RFID_cloner.ino"
-}
